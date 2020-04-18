@@ -11,12 +11,11 @@
 * pytz==2019.3
 * reportlab==3.5.42
 * sqlparse==0.3.0
-* wrapt==1.11.2
 * xhtml2pdf==0.2.4
 
 
 
 
 # notes
-DB = sqlite3 (included in the project)
-Accounts = /djangocc/accounts.txt
+- DB = sqlite3 (included in the project)
+- Accounts = /djangocc/accounts.txt
