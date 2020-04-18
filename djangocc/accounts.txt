@@ -1,0 +1,18 @@
+superuser: udyr
+password: doubledotbitch
+
+user: venomancer
+password: iamkikiam
+
+user: skywrath
+password: flyingmanok
+
+user: rylai
+password: walkingwards
+
+user: nessaj
+password: razorbutred
+
+user: slark
+password: uglyfrog
+
