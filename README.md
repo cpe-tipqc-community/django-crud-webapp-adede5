@@ -3,7 +3,7 @@
 
 ## reqs:
 * asgiref==3.2.3
-*Django==2.1.15
+* Django==2.1.15
 * django-crispy-forms==1.9.0
 * django-filter==2.2.0
 * Pillow==7.1.1
@@ -19,3 +19,6 @@
 # notes
 - DB = sqlite3 (included in the project)
 - Accounts = /djangocc/accounts.txt
+
+# how-to
+Just get the reqs, and login using any of the accounts from /djangocc/accounts.txt, then explore. hehehehehehehehehehehehehehehehehehe
